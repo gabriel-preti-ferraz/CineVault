@@ -13,7 +13,7 @@
 
 The project is still under development, and the next updates will focus on the following tasks:
 
-- [] Add .env to the API Key
+- [ ] Add .env to the API Key
 
 ## 💻 Prerequisites
 
