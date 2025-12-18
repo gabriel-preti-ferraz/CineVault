@@ -13,11 +13,7 @@
 
 The project is still under development, and the next updates will focus on the following tasks:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [] Add .env to the API Key
 
 ## 💻 Prerequisites
 
@@ -38,6 +34,7 @@ To install CineVault, follow these steps:
 To use CineVault, follow these steps:
 
 * Run `npm install`;
+* Get your API Key on [TheMovieDB](https://www.themoviedb.org/settings/api/);
 * Set the API Key on `frontend/src/sevices/api.js`;
 * Run `npm start`;
 * Open in the browser the addess that appeared in the terminal.
